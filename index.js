@@ -7,10 +7,8 @@ function theBeatlesPlay(m, inst)  {
   
   var step
   for (step = 0; step < l; step++) {
-  console.log('Walking east one step');
-}
-  
-  console.log(l)  
+    console.log('${m[step]} plays ${inst[step]}');
+  }
 }
 
 theBeatlesPlay(musicians, instruments)
