@@ -26,7 +26,7 @@ function johnLennonFacts (f) {
   var i; 
   f.forEach(function(item) {
     i = item + "!!!"
-    rtn.push(s)
+    rtn.push(i)
   });
   return rtn 
 }
