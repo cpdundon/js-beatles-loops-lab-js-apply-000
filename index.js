@@ -34,10 +34,12 @@ function johnLennonFacts (f) {
 
 function iLoveTheBeatls(n) {
   var a = [];
+  var i = 0;
   
   do 
-  
-  while ()
+    i++
+    a.push("I love the Beatles!");
+  while (i <= n);
   
 }
 
