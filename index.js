@@ -22,7 +22,9 @@ function theBeatlesPlay(m, inst)  {
 
 
 function johnLennonFacts (f) {
-  
+  for (variable in object) {
+  statements
+}
   
 }
 
