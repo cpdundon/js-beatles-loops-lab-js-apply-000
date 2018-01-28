@@ -26,7 +26,7 @@ function johnLennonFacts (f) {
   fruits.forEach(function(item, index, array) {
     s += "!!!"
     rtn.push(s)
-  }
+  });
   return rtn 
 }
 
