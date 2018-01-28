@@ -7,7 +7,10 @@ function theBeatlesPlay(m, inst)  {
   
   var step
   for (step = 0; step < l; step++) {
-    console.log("${m[step]} plays ${inst[step]}");
+    m_ = m[step];
+    i_ = inst[step];
+    
+    console.log("${m_} plays ${i_}");
   }
   
   console.log(m[0])
