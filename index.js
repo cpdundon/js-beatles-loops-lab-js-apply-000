@@ -37,9 +37,9 @@ function iLoveTheBeatles(n) {
   var i = 0;
   
   do {
-    i++
     a.push("I love the Beatles!");
-  } while (i <= n);
+    i++
+  } while (i < n);
   
 }
 
