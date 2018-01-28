@@ -24,7 +24,7 @@ function theBeatlesPlay(m, inst)  {
 function johnLennonFacts (f) {
   var rtn = [];
   fruits.forEach(function(item, index, array) {
-    s += "!!!"
+    item += "!!!"
     rtn.push(s)
   });
   return rtn 
