@@ -40,7 +40,7 @@ function iLoveTheBeatles(n) {
     a.push("I love the Beatles!");
     i++
   } while (i < n + 1);
-  
+  return a
 }
 
 // theBeatlesPlay(musicians, instruments)
