@@ -15,9 +15,11 @@ function theBeatlesPlay(m, inst)  {
     rtn.push(msg)
     console.log(msg);
   }
-  
-  console.log(rtn)
   return rtn
 }
 
-theBeatlesPlay(musicians, instruments)
+
+
+
+
+// theBeatlesPlay(musicians, instruments)
