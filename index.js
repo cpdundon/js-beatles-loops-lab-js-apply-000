@@ -23,7 +23,7 @@ function theBeatlesPlay(m, inst)  {
 
 function johnLennonFacts (f) {
   var rtn = [];
-  for (var s in f) {
+  fruits.forEach(function(item, index, array) {
     s += "!!!"
     rtn.push(s)
   }
