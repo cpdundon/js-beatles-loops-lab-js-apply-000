@@ -12,11 +12,12 @@ function theBeatlesPlay(m, inst)  {
     i_ = inst[step];
     msg = m_ + ' plays ' + i_;
     
-    
-    console.log("${m_} plays ${i_}");
+    rtn.push(msg)
+    console.log(msg);
   }
   
-  console.log(m[0])
+  console.log(rtn)
+  return rtn
 }
 
 theBeatlesPlay(musicians, instruments)
