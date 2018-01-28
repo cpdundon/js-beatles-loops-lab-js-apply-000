@@ -33,3 +33,4 @@ function johnLennonFacts (f) {
 
 
 // theBeatlesPlay(musicians, instruments)
+johnLennonFacts(facts)
