@@ -39,7 +39,7 @@ function iLoveTheBeatles(n) {
   do {
     a.push("I love the Beatles!");
     i++
-  } while (i < n);
+  } while (i < n + 1);
   
 }
 
