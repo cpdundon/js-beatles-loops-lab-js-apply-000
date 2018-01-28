@@ -36,6 +36,10 @@ function iLoveTheBeatles(n) {
   var a = [];
   var i = 0;
   
+  if (n > 14) {
+    return "I love the Beatles!"    
+  }
+  
   do {
     a.push("I love the Beatles!");
     i++
