@@ -14,7 +14,10 @@ function theBeatlesPlay(m, inst)  {
 }
 
 
-
+function johnLennonFacts () {
+  
+  
+}
 
 
 // theBeatlesPlay(musicians, instruments)
