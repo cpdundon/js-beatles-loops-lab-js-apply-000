@@ -9,6 +9,8 @@ function theBeatlesPlay(m, inst)  {
   for (step = 0; step < l; step++) {
     console.log("${m[step]} plays ${inst[step]}");
   }
+  
+  console.log(m[0])
 }
 
 theBeatlesPlay(musicians, instruments)
