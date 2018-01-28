@@ -32,7 +32,7 @@ function johnLennonFacts (f) {
   return rtn 
 }
 
-function iLoveTheBeatls(n) {
+function iLoveTheBeatles(n) {
   var a = [];
   var i = 0;
   
