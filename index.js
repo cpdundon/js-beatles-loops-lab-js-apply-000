@@ -5,7 +5,7 @@ const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 function theBeatlesPlay(m, inst)  {
   var l = m.length
   
-  var rtn 
+  var rtn = [];
   var step
   for (step = 0; step < l; step++) {
     m_ = m[step];
