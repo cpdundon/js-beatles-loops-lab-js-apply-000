@@ -8,11 +8,7 @@ function theBeatlesPlay(m, inst)  {
   var rtn = [];
   var step
   for (step = 0; step < l; step++) {
-    m_ = m[step];
-    i_ = inst[step];
-    msg = m_ + ' plays ' + i_;
-    
-    rtn.push(msg)
+    rtn.push((m[step] + ' plays ' + inst[step]))
     console.log(msg);
   }
   return rtn
