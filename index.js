@@ -6,6 +6,6 @@ function theBeatlesPlay(musicians, insts) {
   var m = musicians[1]
   var inst = ints[1]
   
-  c  
+  console.
     
 }
