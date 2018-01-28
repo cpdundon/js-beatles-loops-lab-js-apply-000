@@ -36,10 +36,10 @@ function iLoveTheBeatls(n) {
   var a = [];
   var i = 0;
   
-  do 
+  do {
     i++
     a.push("I love the Beatles!");
-  while (i <= n);
+  } while (i <= n);
   
 }
 
