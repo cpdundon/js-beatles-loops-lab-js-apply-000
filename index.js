@@ -22,10 +22,12 @@ function theBeatlesPlay(m, inst)  {
 
 
 function johnLennonFacts (f) {
-  for (variable in object) {
-  statements
-}
-  
+  var rtn = [];
+  for (s in f) {
+    s += "!!!"
+    rtn.push(s)
+  }
+  return rtn 
 }
 
 
