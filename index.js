@@ -1,1 +1,1 @@
-const beatles = ["John Lennon", "Paul McCartney", ]
+const beatles = ["John Lennon", "Paul McCartney", "Ringo Starr", "Paul Harrison"]
