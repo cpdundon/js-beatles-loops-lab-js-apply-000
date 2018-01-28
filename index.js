@@ -44,4 +44,4 @@ function iLoveTheBeatles(n) {
 }
 
 // theBeatlesPlay(musicians, instruments)
-//console.log(johnLennonFacts(facts))
+console.log(iLoveTheBeatles(7))
