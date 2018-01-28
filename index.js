@@ -10,7 +10,9 @@ function theBeatlesPlay(m, inst)  {
   for (step = 0; step < l; step++) {
     m_ = m[step];
     i_ = inst[step];
-    msg = 
+    msg = m_ + ' plays ' + i_;
+    
+    
     console.log("${m_} plays ${i_}");
   }
   
