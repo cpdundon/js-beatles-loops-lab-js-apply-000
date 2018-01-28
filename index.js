@@ -23,7 +23,7 @@ function theBeatlesPlay(m, inst)  {
 
 function johnLennonFacts (f) {
   var rtn = [];
-  for (s in f) {
+  for (var s in f) {
     s += "!!!"
     rtn.push(s)
   }
