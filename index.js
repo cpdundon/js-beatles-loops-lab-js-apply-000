@@ -32,6 +32,15 @@ function johnLennonFacts (f) {
   return rtn 
 }
 
+function iLoveTheBeatls(n) {
+  var a = [];
+  
+  do while () {
+    
+    
+  }
+  
+}
 
 // theBeatlesPlay(musicians, instruments)
 //console.log(johnLennonFacts(facts))
