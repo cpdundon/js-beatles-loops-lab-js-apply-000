@@ -7,3 +7,5 @@ function theBeatlesPlay(m, inst)  {
   
   console.log(l)  
 }
+
+theBeatlesPlay()
