@@ -8,4 +8,4 @@ function theBeatlesPlay(m, inst)  {
   console.log(l)  
 }
 
-theBeatlesPlay()
+theBeatlesPlay(musicians, instruments)
