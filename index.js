@@ -34,4 +34,4 @@ function johnLennonFacts (f) {
 
 
 // theBeatlesPlay(musicians, instruments)
-johnLennonFacts(facts)
+console.log(johnLennonFacts(facts))
