@@ -9,7 +9,6 @@ function theBeatlesPlay(m, inst)  {
   var step
   for (step = 0; step < l; step++) {
     rtn.push((m[step] + ' plays ' + inst[step]))
-    console.log(msg);
   }
   return rtn
 }
