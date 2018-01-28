@@ -35,10 +35,9 @@ function johnLennonFacts (f) {
 function iLoveTheBeatls(n) {
   var a = [];
   
-  do while () {
-    
-    
-  }
+  do 
+  
+  while ()
   
 }
 
